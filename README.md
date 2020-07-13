@@ -17,10 +17,10 @@ pages={to appear}
 ```
 
 **Contact:** 
-* Claudia Schulz <clauschulz1812@gmail.com> 
-* Josh Levy-Kramer <josh@levykramer.co.uk>
-* Camille Van Assel <camille.vanassel@babylonhealth.com>
-* Miklos Kepes <kepes.miklos@gmail.com>
+* [Claudia Schulz](clauschulz1812@gmail.com)
+* [Josh Levy-Kramer](josh@levykramer.co.uk)
+* [Camille Van Assel](camille.vanassel@babylonhealth.com)
+* [Miklos Kepes](kepes.miklos@gmail.com)
 * Nils Hammerla
 
 
