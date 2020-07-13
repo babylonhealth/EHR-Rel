@@ -1,0 +1,112 @@
+snomed_id_1	snomed_label_1	snomed_id_2	snomed_label_2	rater_A	rater_B	rater_C	rater_D	rater_E	mean_rating	CUI_1	CUI_2
+9991008	Abdominal colic	200149009	Delivery by emergency caesarean section	0.0	1.0	1.0	0.0	0.0	0.4	C0232488	C0475603
+21522001	Abdominal pain	49650001	Dysuria	1.0	2.0	2.0	2.0	1.0	1.6	C0000737	C0013428
+21522001	Abdominal pain	162011005	Sore mouth	0.0	0.0	0.0	0.0	0.0	0.0	C0000737	C1579838
+162031009	Indigestion	267024001	Abnormal weight loss	1.0	1.0	1.0	1.0	2.0	1.2	C0013395	C0936227
+195742007	Acute lower respiratory tract infection	300359004	Finding of vomiting	0.0	1.0	0.0	0.0	0.0	0.2	C0238990	C0042963
+10601006	Pain in lower limb	195742007	Acute lower respiratory tract infection	0.0	0.0	0.0	0.0	0.0	0.0	C0023222	C0238990
+67195008	Acute stress disorder	106131003	Mood finding	2.0	3.0	3.0	2.0	2.0	2.4	C0236816	C0424108
+307571006	Anticoagulant drug monitoring	313204009	Lifestyle education	1.0	1.0	1.0	1.0	0.0	0.8	C0419969	C0730543
+48694002	Anxiety	161891005	Backache	1.0	1.0	1.0	1.0	0.0	0.8	C0003467	C0004604
+197480006	Anxiety disorder	304507003	Exercise education	1.0	1.0	1.0	2.0	0.0	1.0	C0003469	C0582396
+267952008	Arthralgia of the pelvic region and thigh	279039007	Low back pain	1.0	1.0	2.0	2.0	0.0	1.2	C0423663	C0024031
+52441000	Atrophic vaginitis	162004006	Tooth symptoms	0.0	0.0	0.0	0.0	0.0	0.0	C0221392	C0426481
+161891005	Backache	363732003	Addison's disease	0.0	2.0	0.0	1.0	0.0	0.6	C0004604	C0001403
+30989003	Knee pain	161891005	Backache	1.0	1.0	1.0	1.0	0.0	0.8	C0231749	C0004604
+118285006	Epithelial neoplasm	202856007	Biceps tendinitis	0.0	0.0	0.0	0.0	0.0	0.0	C1368683	C0151434
+21173002	Benign adenoma of prostate	165234001	Bladder: fully continent	1.0	1.0	1.0	0.0	0.0	0.6	C0520477	C0429962
+37450000	Corneal foreign body	165234001	Bladder: fully continent	0.0	0.0	0.0	0.0	0.0	0.0	C0161002	C0429962
+49727002	Cough	286901000000107	Bowel cancer screening programme	0.0	0.0	0.0	0.0	0.0	0.0	C0010200	
+21522001	Abdominal pain	89164003	Breast lump	1.0	1.0	0.0	0.0	0.0	0.4	C0000737	C0024103
+41446000	Blepharitis	89164003	Breast lump	0.0	0.0	0.0	0.0	0.0	0.0	C0005741	C0024103
+79879001	Breath smells unpleasant	307731004	Injury of tendon of the rotator cuff of shoulder	0.0	0.0	0.0	0.0	0.0	0.0	C0018520	C0495868
+54888009	Sprain of knee	271834000	Burping	0.0	0.0	0.0	0.0	0.0	0.0	C0272891	C0014724
+29857009	Chest pain	272027003	C/O - a headache	0.0	1.0	0.0	0.0	0.0	0.2	C0008031	C0439024
+161894002	C/O - low back pain	366979004	Depressed mood	2.0	2.0	2.0	1.0	0.0	1.4	C0436551	C0344315
+35489007	Depressive disorder	310481001	C/O paraesthesia	1.0	1.0	0.0	0.0	0.0	0.4	C0011581	C0587990
+139394000	Nocturia	267104002	C/O: a pain	1.0	0.0	0.0	0.0	0.0	0.2	C0028734	C0436561
+49727002	Cough	267105001	C/O: itching	0.0	0.0	0.0	0.0	0.0	0.0	C0010200	C0436563
+44666001	Microcytic hypochromic anaemia	78048006	Candidiasis	0.0	0.0	0.0	0.0	0.0	0.0	C0271901	C0006840
+49727002	Cough	193570009	Cataract	0.0	0.0	0.0	0.0	0.0	0.0	C0010200	C0086543
+128045006	Cellulitis	272027003	C/O - a headache	0.0	1.0	0.0	0.0	0.0	0.2	C0007642	C0439024
+29857009	Chest pain	78514002	Thigh pain	0.0	0.0	0.0	0.0	0.0	0.0	C0008031	C0241374
+29857009	Chest pain	165232002	Urinary incontinence	0.0	0.0	0.0	0.0	0.0	0.0	C0008031	C0042024
+391124000	Medical Research Council Dyspnoea scale grade 3	394703002	Chronic obstructive pulmonary disease annual review	2.0	1.0	3.0	2.0	2.0	2.0	C1271937	C1273972
+397803000	Impotence	473327001	Complaining of erectile dysfunction	3.0	3.0	3.0	2.0	2.0	2.6	C0242350	C3532797
+14760008	Constipation	41168002	Condition in fetus originating in the perinatal period	0.0	1.0	0.0	2.0	0.0	0.6	C0009806	C0270075
+9826008	Conjunctivitis	409063005	Counselling	0.0	0.0	0.0	0.0	0.0	0.0	C0009763	C0010210
+13197004	Contraception	279039007	Low back pain	0.0	1.0	0.0	0.0	0.0	0.2	C0700589	C0024031
+72866009	Varicose veins of lower extremity	408968008	Contraception care education	0.0	0.0	0.0	0.0	0.0	0.0	C0155778	C1443484
+49727002	Cough	162415008	C/O: a rash	1.0	1.0	0.0	0.0	0.0	0.4	C0010200	C0436562
+49727002	Cough	68154008	Chronic cough	3.0	3.0	3.0	2.0	2.0	2.6	C0010200	C0010201
+13197004	Contraception	49727002	Cough	0.0	0.0	0.0	0.0	0.0	0.0	C0700589	C0010200
+49727002	Cough	297960002	Mass of skin	0.0	0.0	0.0	0.0	0.0	0.0	C0010200	C0281981
+12063002	Rectal haemorrhage	49727002	Cough	0.0	0.0	0.0	0.0	0.0	0.0	C0267596	C0010200
+25702006	Alcohol intoxication	409063005	Counselling	1.0	1.0	2.0	1.0	0.0	1.0	C0001969	C0010210
+271951008	Crying associated with mood	404641004	Giddiness	0.0	0.0	0.0	1.0	0.0	0.2	C0424109	C0476207
+15188001	Hearing loss	366979004	Depressed mood	1.0	2.0	0.0	1.0	0.0	0.8	C1384666	C0344315
+263251009	Metatarsal bone fracture	200971000000100	Depression screening using questions	0.0	0.0	0.0	0.0	0.0	0.0	C0435943	
+10810001	Disorder of lens	170742000	Diabetic monitoring	1.0	1.0	1.0	2.0	0.0	1.0	C0023308	C0419878
+30989003	Knee pain	62315008	Diarrhoea	0.0	0.0	0.0	1.0	0.0	0.2	C0231749	C0011991
+11833005	Dry cough	24079001	Atopic dermatitis	0.0	0.0	1.0	0.0	0.0	0.2	C0850149	C0011615
+162290004	Dry eyes	249274008	Urinary symptoms	0.0	0.0	0.0	0.0	0.0	0.0	C0314719	C0426359
+161969004	Fluttering heart	271807003	Eruption	0.0	0.0	0.0	0.0	0.0	0.0	C0235239	C0015230
+160628002	Exercise grading	313204009	Lifestyle education	1.0	1.0	1.0	2.0	2.0	1.4	C0542572	C0730543
+49436004	Atrial fibrillation	278528006	Facial swelling	0.0	0.0	0.0	0.0	0.0	0.0	C0004238	C0151602
+95315005	Uterine leiomyoma	397847006	Family bereavement	0.0	0.0	0.0	0.0	0.0	0.0	C0042133	C0554999
+193570009	Cataract	248427009	Fever symptoms	0.0	0.0	0.0	0.0	0.0	0.0	C0086543	C0424755
+47933007	Foot pain	74474003	Gastrointestinal haemorrhage	1.0	0.0	0.0	0.0	0.0	0.2	C0016512	C0017181
+10743008	Irritable bowel syndrome	404641004	Giddiness	0.0	0.0	0.0	0.0	0.0	0.0	C0022104	C0476207
+53741008	Coronary arteriosclerosis	385827001	Health promotion education	2.0	1.0	0.0	2.0	1.0	1.2	C0010054	C1272438
+15188001	Hearing loss	404641004	Giddiness	1.0	2.0	2.0	1.0	0.0	1.2	C1384666	C0476207
+30989003	Knee pain	162116003	Increased frequency of urination	0.0	0.0	0.0	0.0	0.0	0.0	C0231749	C0042023
+64009001	Basilar artery syndrome	86198006	Influenza vaccination	0.0	0.0	0.0	0.0	0.0	0.0	C0004812	C0042200
+201108001	Ingrowing great toenail	408968008	Contraception care education	0.0	0.0	0.0	0.0	0.0	0.0	C0406444	C1443484
+82271004	Injury of head	272027003	C/O - a headache	2.0	2.0	3.0	2.0	2.0	2.2	C0018674	C0439024
+11314008	Polyp of corpus uteri	166711000000108	Joint British Societies cardiovascular disease risk less than ten percent over next ten years	0.0	0.0	0.0	0.0	0.0	0.0	C0156369	
+30989003	Knee pain	49727002	Cough	0.0	0.0	0.0	0.0	0.0	0.0	C0231749	C0010200
+24079001	Atopic dermatitis	162052001	Left iliac fossa pain	0.0	0.0	0.0	0.0	0.0	0.0	C0011615	C0476307
+237101004	Leukorrhoea	267104002	C/O: a pain	0.0	2.0	0.0	1.0	0.0	0.6	C0023533	C0436561
+275944005	Hypertension monitoring	279039007	Low back pain	0.0	0.0	0.0	0.0	0.0	0.0	C0419816	C0024031
+279039007	Low back pain	304253006	Not for resuscitation	0.0	0.0	0.0	0.0	0.0	0.0	C0024031	C0582114
+79922009	Epigastric pain	391126003	Medical Research Council Dyspnoea scale grade 5	0.0	0.0	0.0	0.0	1.0	0.2	C0232493	C1271939
+198057005	Male genital organ vascular diseases	267024001	Abnormal weight loss	0.0	0.0	0.0	0.0	0.0	0.0	C0042374	C0936227
+60845006	Dyspnoea on exertion	289903006	Menopause present	0.0	0.0	0.0	0.0	0.0	0.0	C0231807	C0567312
+4740000	Herpes zoster	95024008	Neoplasm of uncertain behaviour of rectum	0.0	0.0	0.0	0.0	0.0	0.0	C0019360	C0496908
+8009008	Nocturnal enuresis	78164000	Feeding problem	0.0	0.0	0.0	1.0	0.0	0.2	C0270327	C0232466
+14760008	Constipation	300980002	Normocytic anaemia	1.0	0.0	0.0	0.0	0.0	0.2	C0009806	C0085577
+44077006	Numbness	398838000	Senile hyperkeratosis	0.0	0.0	0.0	0.0	0.0	0.0	C0028643	C4282032
+29857009	Chest pain	191736004	Obsessive-compulsive disorder	0.0	0.0	0.0	0.0	0.0	0.0	C0008031	C0028768
+75544000	Opioid dependence	302202009	Tower block syndrome	0.0	0.0	0.0	0.0	0.0	0.0	C0524662	C0555034
+30989003	Knee pain	396275006	Osteoarthritis	2.0	2.0	3.0	2.0	1.0	2.0	C0231749	C0029408
+59529006	Squamous cell carcinoma in situ	64859006	Osteoporosis	0.0	0.0	0.0	0.0	0.0	0.0	C0334245	C0029456
+9826008	Conjunctivitis	162397003	Pain in throat	0.0	0.0	1.0	0.0	0.0	0.2	C0009763	C0242429
+162397003	Pain in throat	200971000000100	Depression screening using questions	0.0	0.0	0.0	0.0	0.0	0.0	C0242429	
+39406005	Legal termination of pregnancy	285365001	Pain in toe	0.0	0.0	0.0	0.0	0.0	0.0	C1456876	C0241416
+56608008	Pain in wrist	267022002	General symptom	1.0	2.0	0.0	2.0	0.0	1.0	C0221785	C0159028
+7895008	Poisoning by drug AND/OR medicinal substance	55822004	Hyperlipidaemia	0.0	0.0	1.0	1.0	0.0	0.4	C0013221	C0020473
+34000006	Crohn's disease	384634009	Postnatal maternal examination	0.0	0.0	0.0	0.0	0.0	0.0	C0010346	C0587037
+58703003	Postpartum depression	267112005	Patient feels well	0.0	0.0	0.0	0.0	0.0	0.0	C0221074	C0554992
+262539000	Superficial friction burn	268547008	Screening for malignant neoplasm of breast	0.0	0.0	0.0	0.0	0.0	0.0	C0542343	C0281182
+18070006	Impacted cerumen	103281005	Sensation of blocked ears	2.0	2.0	2.0	2.0	3.0	2.2	C0021092	C0522348
+195742007	Acute lower respiratory tract infection	271766002	Skin sinus	0.0	0.0	0.0	0.0	0.0	0.0	C0238990	C0423772
+55822004	Hyperlipidaemia	308926009	Skin symptom	0.0	0.0	0.0	0.0	0.0	0.0	C0020473	C0586407
+195742007	Acute lower respiratory tract infection	208321007	Smith's fracture - closed	0.0	0.0	0.0	0.0	0.0	0.0	C0238990	C0272643
+202855006	Lateral epicondylitis	209409002	Sprains and strains of joints and adjacent muscles	2.0	2.0	2.0	1.0	1.0	1.6	C0039516	C0038048
+6471006	Suicidal thoughts	64531003	Nasal discharge	0.0	0.0	0.0	0.0	0.0	0.0	C0424000	C1260880
+78514002	Thigh pain	162415008	C/O: a rash	1.0	1.0	0.0	0.0	0.0	0.4	C0241374	C0436562
+78514002	Thigh pain	162356005	Earache symptoms	0.0	0.0	0.0	0.0	0.0	0.0	C0241374	C0013456
+78514002	Thigh pain	268511007	Respiratory disease monitoring	0.0	0.0	0.0	0.0	0.0	0.0	C0241374	C0421217
+170780004	Thyroid disease monitoring	289903006	Menopause present	0.0	0.0	0.0	1.0	0.0	0.2	C0419886	C0567312
+52684005	Assault	67787004	Tongue tie	0.0	0.0	0.0	0.0	0.0	0.0	C0004063	C0152415
+24982008	Diplopia	95567008	Traumatic haematuria	0.0	0.0	0.0	0.0	0.0	0.0	C0012569	C0473236
+54150009	Upper respiratory infection	81680005	Neck pain	1.0	1.0	0.0	0.0	0.0	0.4	C0041912	C0007859
+54150009	Upper respiratory infection	90176007	Tonsillitis	2.0	3.0	2.0	1.0	1.0	1.8	C0041912	C0040425
+82271004	Injury of head	165232002	Urinary incontinence	0.0	1.0	0.0	1.0	0.0	0.4	C0018674	C0042024
+17173007	Excessive thirst	63440008	Verruca plantaris	0.0	0.0	0.0	0.0	0.0	0.0	C0085602	C0042548
+186504007	Viral disease characterised by exanthem	404684003	Clinical finding	2.0	1.0	0.0	1.0	0.0	0.8		C0037088
+165234001	Bladder: fully continent	272040008	Wheezing symptom	0.0	0.0	0.0	0.0	0.0	0.0	C0429962	C0439035
+78048006	Candidiasis	272040008	Wheezing symptom	0.0	0.0	0.0	0.0	0.0	0.0	C0006840	C0439035
+90176007	Tonsillitis	272040008	Wheezing symptom	0.0	1.0	1.0	0.0	0.0	0.4	C0040425	C0439035
+54150009	Upper respiratory infection	272040008	Wheezing symptom	2.0	2.0	2.0	2.0	2.0	2.0	C0041912	C0439035
+18695008	Hyaline body	161719001	Wishes to postpone menstruation	0.0	0.0	0.0	0.0	0.0	0.0	C0333440	C0438641
