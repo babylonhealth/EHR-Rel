@@ -15,6 +15,7 @@ year={2020},
 pages={to appear}
 }
 ```
+You can also access the paper on [Arxiv](https://arxiv.org/abs/2010.16218).
 
 **Contact:** 
 * [Claudia Schulz](mailto:clauschulz1812@gmail.com)
