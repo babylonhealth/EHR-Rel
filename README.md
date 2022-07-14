@@ -1,3 +1,6 @@
+> **Note**
+> This repository is no longer actively maintained by Babylon Health. For further assistance, reach out to the paper authors.
+
 # EHR-Rel
 **EHR-RelB** is a **benchmark dataset** for biomedical concept relatedness, 
 consisting of 3630 concept pairs sampled from electronic health records (EHRs).
